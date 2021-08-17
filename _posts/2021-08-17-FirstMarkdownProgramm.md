@@ -1,3 +1,7 @@
+---
+Title: Beginner Markdown Programme
+Layout: Post
+---
 
 # **Browsing History auf Chrome löschen**
 Es gibt einige einfache Schritte die durchgeführt werden müssen um die von Ihnen zuletzt geöffneten Webseiten, die auf Chrome gespeichert sind zu löschen. Diese habe ich Schritt für Schritt erklärt.

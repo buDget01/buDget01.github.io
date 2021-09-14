@@ -19,10 +19,9 @@ Um den Browsing History zu löschen, musste ich als Erstes wissen, wo es überha
 ## **Vorhandene Suchdaten löschen**
 In dieser Dropdown-liste fand ich verschiedene Optionen, wie zum Beispiel die Einstellungen oder meine Favoriten. Unter diesen Optionen fand ich „History“. Dies war ein Link zu den „History“ Einstellungen von Chrome. Anschliessend bekam ich die Option die Sucheingaben, die Cookies und Caches zu löschen. Ich entschied alles, ausser die Cookies zu löschen. 
 
+[![Youtube Link](https://s17026.pcdn.co/wp-content/uploads/sites/13/2017/10/Screen-Shot-2017-10-26-at-16.36.01.png)](https://www.youtube.com/watch?v=puzFbU812h4)
 
-[![Youtube video](https://s17026.pcdn.co/wp-content/uploads/sites/13/2017/10/Screen-Shot-2017-10-26-at-16.36.01.png)](https://s17026.pcdn.co/wp-content/uploads/sites/13/2017/10/Screen-Shot-2017-10-26-at-16.36.01.png))
-
-## **Zukünftige aufnahme von Suchbegriffen deaktivieren**
+## **Zukünftige Aufnahme von Suchbegriffen deaktivieren**
 Wie man das Speichern der gesuchten Webseiten stoppt, war mir nicht bewusst. Deswegen habe ich mich bei Google Chrome Help informieren lassen. Leider hat mir die Seite nicht weiterhelfen können. 
 
 (https://support.google.com/chrome/?hl=en#topic=9796470)
